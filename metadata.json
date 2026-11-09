@@ -1,0 +1,6 @@
+{
+  "name": "Campus Directory & Notes Hub",
+  "description": "University Android teaching demo for Chapter 5: Content Providers (cross-app URI data sharing with permissions) versus Query Providers (internal Room DAO + Repository data access).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

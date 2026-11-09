@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Campus Directory</string>
+    <string name="tab_contacts">Contacts</string>
+    <string name="tab_notes">Notes</string>
+    <string name="nav_share_demo">Share Demo</string>
+
+    <!-- Contacts Screen -->
+    <string name="search_contacts_hint">Search contacts by name (DAO)…</string>
+    <string name="empty_contacts_title">No Contacts Found</string>
+    <string name="empty_contacts_desc">Add a classmate or clear your search query.</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="label_name">Full Name</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="label_email">Campus Email</string>
+    <string name="label_course">Course Code</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="confirm_delete_contact">Are you sure you want to delete this contact?</string>
+    <string name="contact_saved_success">Contact saved successfully</string>
+    <string name="contact_deleted_success">Contact deleted</string>
+
+    <!-- Notes Screen -->
+    <string name="empty_notes_title">No Personal Notes</string>
+    <string name="empty_notes_desc">Create course notes. These are strictly internal and not exposed via ContentProvider.</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="label_note_title">Note Title</string>
+    <string name="label_note_body">Note Content</string>
+    <string name="label_note_course">Course Tag</string>
+    <string name="save_note">Save Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="note_saved_success">Note saved successfully</string>
+    <string name="note_deleted_success">Note deleted</string>
+
+    <!-- Share Demo Screen -->
+    <string name="teaching_lab_title">Chapter 5 Teaching Lab</string>
+    <string name="teaching_lab_subtitle">Content Provider vs Query Provider</string>
+    <string name="btn_query_provider">Query MY provider with ContentResolver</string>
+    <string name="btn_insert_sample">Insert Sample via ContentResolver</string>
+    <string name="btn_delete_sample">Delete Sample via ContentResolver</string>
+    <string name="btn_copy_adb">Copy ADB Query Command</string>
+    <string name="adb_command_copied">ADB command copied to clipboard!</string>
+    <string name="authority_label">Authority:</string>
+    <string name="content_uri_label">CONTENT_URI:</string>
+    <string name="permissions_label">Permissions:</string>
+    <string name="resolver_results_header">ContentResolver Cursor Rows:</string>
+    <string name="no_cursor_results">Click the query button above to query content://com.example.campusdirectory/contacts via ContentResolver.</string>
+</resources>

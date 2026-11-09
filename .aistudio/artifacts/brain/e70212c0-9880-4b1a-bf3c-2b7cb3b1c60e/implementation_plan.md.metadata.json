@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Campus Directory & Notes Hub, a comprehensive university teaching demo illustrating Content Provider (cross-app, content:// URI, custom permissions) versus Query Provider (Room DAO + Repository internal data access).",
+  "updatedAt":  "2026-11-09T13:59:41.387676061Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
